@@ -24,7 +24,6 @@ public class bird : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            Debug.Log("Clicou");
             this.impulsionar();
         }
     }
